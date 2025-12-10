@@ -1,0 +1,4 @@
+driver_kind,scenario_type,difficulty,seed,total_reward,steps,crashed,truncated
+llm_memory_safety,high_speed_cutin,1,0,0.9105482353831814,2,True,False
+llm_memory_safety,high_speed_cutin,1,1,0.03333333333333336,1,True,False
+llm_memory_safety,high_speed_cutin,1,2,0.9105482353831814,2,True,False
